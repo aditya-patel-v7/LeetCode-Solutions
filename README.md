@@ -15,4 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1717-maximum-score-from-removing-substrings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+## Array
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
