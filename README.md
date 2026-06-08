@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 ## Sorting
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 ## Math
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Two Pointers
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
