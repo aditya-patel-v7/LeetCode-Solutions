@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
