@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1717-maximum-score-from-removing-substrings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
