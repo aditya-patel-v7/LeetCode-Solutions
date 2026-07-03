@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Search Tree
 |  |
