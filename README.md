@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Tree
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
