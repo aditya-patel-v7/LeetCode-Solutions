@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1717-maximum-score-from-removing-substrings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
