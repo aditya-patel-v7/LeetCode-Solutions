@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0513-find-bottom-left-tree-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
