@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2236-root-equals-sum-of-children](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
