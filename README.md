@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
