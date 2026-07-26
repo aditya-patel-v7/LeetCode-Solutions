@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
