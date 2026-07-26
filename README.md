@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
