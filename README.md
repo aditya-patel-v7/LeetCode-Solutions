@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -253,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
