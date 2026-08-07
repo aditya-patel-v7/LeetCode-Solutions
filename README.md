@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
