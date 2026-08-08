@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Tree
 |  |
