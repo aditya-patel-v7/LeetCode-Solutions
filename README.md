@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2751-robot-collisions](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2751-robot-collisions) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
