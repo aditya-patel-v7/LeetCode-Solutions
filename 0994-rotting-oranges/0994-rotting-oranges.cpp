@@ -1,52 +1,43 @@
 class Solution {
 public:
-
     int orangesRotting(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m= grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
         int ans=0;
-        queue<pair<pair<int,int>,int>> q;
-        vector<vector<bool>> v(n,vector<bool>(m,false));
+        vector<vector<int>>vis(n,vector<int>(m,0));
+        queue<pair<pair<int,int>,int>>q;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-               if(grid[i][j]==2){
-                q.push({{i,j},0});
-                v[i][j]=true;
-               }
+                if(grid[i][j]==2){
+                    vis[i][j]=1;
+                  q.push({{i,j},0});
+                }
             }
         }
-
-        while(q.size()>0){
-            int i=q.front().first.first;
-            int j=q.front().first.second;
-            int time=q.front().second;
-            q.pop();
-         ans= max(ans,time);
-
-         if(i-1>=0 && !v[i-1][j] && grid[i-1][j]==1){
-            q.push({{i-1,j},time+1});
-            v[i-1][j]=true;
-         }
-          if(i+1<n && !v[i+1][j] && grid[i+1][j]==1){
-            q.push({{i+1,j},time+1});
-            v[i+1][j]=true;
-         }
-          if(j-1>=0 && !v[i][j-1] && grid[i][j-1]==1){
-            q.push({{i,j-1},time+1});
-            v[i][j-1]=true;
-         }
-          if(j+1<m && !v[i][j+1] && grid[i][j+1]==1){
-            q.push({{i,j+1},time+1});
-            v[i][j+1]=true;
-         }
+        while(!q.empty()){
+          int x = q.front().first.first;
+          int y = q.front().first.second;
+          int time = q.front().second;
+          ans=max(ans,time);
+          q.pop();
+          int dr[] = {-1,1,0,0};
+          int dc[] = {0,0,-1,1};
+          for(int d=0;d<4;d++){
+            int r = x+dr[d];
+            int c = y+dc[d];
+            if(r >=0 && r<n && c >=0 && c< m &&!vis[r][c] && grid[r][c]==1 ){
+                vis[r][c]=1;
+                grid[r][c]=2;
+                q.push({{r,c},time+1});
+            }
+          }
         }
-
-  for(int i=0;i<n;i++){
-    for(int j=0;j<m;j++){
-        if(grid[i][j]==1 && !v[i][j]){
-            return -1;
+        for(int a=0;a<n;a++){
+            for(int b=0;b<m;b++){
+                if(grid[a][b]==1){
+                    return -1;
+                }
+            }
         }
-    }
-}
-    return ans;}
+   return ans; }
 };
