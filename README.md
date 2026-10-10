@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2751-robot-collisions) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2751-robot-collisions](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Tree
 |  |
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
