@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Graph Theory
@@ -427,5 +432,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
