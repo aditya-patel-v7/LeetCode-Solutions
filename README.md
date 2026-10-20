@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0136-single-number](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0461-hamming-distance) |
