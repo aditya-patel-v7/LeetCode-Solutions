@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1386-cinema-seat-allocation](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Linked List
 |  |
 | ------- |
@@ -414,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Graph Theory
 |  |
@@ -445,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
