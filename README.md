@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
+| [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
