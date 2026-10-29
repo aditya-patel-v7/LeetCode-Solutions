@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
