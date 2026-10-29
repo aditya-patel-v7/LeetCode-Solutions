@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0127-word-ladder](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
