@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0841-keys-and-rooms](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
