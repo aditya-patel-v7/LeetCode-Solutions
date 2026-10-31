@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0814-binary-tree-pruning) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0695-max-area-of-island](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -439,12 +441,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0841-keys-and-rooms) |
@@ -472,10 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/aditya-patel-v7/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
